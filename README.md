@@ -7,7 +7,7 @@
 - 📍 Enter a city to get the current weather information.
 - 🌡️ Displays the temperature.
 - ⛅ Displays an icon corresponding to the current weather conditions.
-- 📝 Provides a weather description (e.g., "clear," "cloudy," etc.).
+- 📝 Provides a weather description (e.g., "clear," "cloudy," etc.). 
 
 ## 🛠️ Technologies
 
