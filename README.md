@@ -1,32 +1,32 @@
 # Whether 🌦️
 
-**Whether** — это элегантное и минималистичное приложение для получения текущей погоды в любом городе. Этот проект написан на HTML, CSS и JavaScript и предоставляет актуальную информацию о погоде, включая температуру, описание, иконку погоды и многое другое.
+**Whether** is an elegant and minimalist weather application that allows you to get the current weather in any city. This project is built with HTML, CSS, and JavaScript, providing up-to-date weather information, including temperature, description, weather icon, and more.
 
-## 🚀 Функциональные особенности
+## 🚀 Features
 
-- 📍 Ввод города для получения информации о текущей погоде.
-- 🌡️ Отображение температуры.
-- ⛅ Отображение иконки, соответствующей текущим погодным условиям.
-- 📝 Описание погоды (например, "ясно", "облачно" и т.д.).
+- 📍 Enter a city to get the current weather information.
+- 🌡️ Displays the temperature.
+- ⛅ Displays an icon corresponding to the current weather conditions.
+- 📝 Provides a weather description (e.g., "clear," "cloudy," etc.).
 
-## 🛠️ Технологии
+## 🛠️ Technologies
 
-- **HTML5**: Используется для создания структуры страницы.
-- **CSS3**: Применяется для стилизации интерфейса.
-- **JavaScript**: Обрабатывает запросы к API и обновляет данные на странице.
+- **HTML5**: Used for structuring the webpage.
+- **CSS3**: Used for styling the interface.
+- **JavaScript**: Handles API requests and updates the data on the page.
 
-## 📂 Структура проекта
+## 📂 Project Structure
 
-- `index.html`: Основной файл, содержащий структуру веб-страницы.
-- `style.css`: Файл для стилизации элементов на странице.
-- `main.js`: Скрипт для обработки ввода пользователя и взаимодействия с API погоды.
+- `index.html`: The main file containing the structure of the webpage.
+- `style.css`: The file for styling the elements on the page.
+- `main.js`: The script that handles user input and interacts with the weather API.
 
-## 🌐 Как использовать
+## 🌐 How to Use
 
-1. Склонируйте репозиторий:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/5ekastanx/Whether.git
-Откройте index.html в вашем браузере.
+Open index.html in your browser.
 
-Введите название города в текстовое поле и нажмите кнопку для получения текущей информации о погоде.
+Enter the name of a city in the text field and click the button to get the current weather information.
